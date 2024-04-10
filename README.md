@@ -1,2 +1,2 @@
 # mi-segundo-repositorio
-repositorio de prueba
+repositorio de prueba, para gitHub
